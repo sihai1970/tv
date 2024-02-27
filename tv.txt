@@ -1,4 +1,6 @@
 电影频道,#genre#
+
+
 流浪地球,https://hnzy.bfvvs.com/play/Rb46DRxe/index.m3u8
 古楼镇陵宫,https://v10.1080tg.com/202402/23/BBMiKChzfE2/video/900k_0X480_64k_25/hls/index.m3u8
 金手指,https://pptv.1080tg.com/202402/13/zGAsrz9QRu3/video/900k_0X480_64k_25/hls/index.m3u8
